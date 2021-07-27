@@ -11,9 +11,9 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV5xx" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5xxx
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+ 720" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5 720p
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV5+ 720" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5 720p
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+ 720_2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5 720pp
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV5+ 720_2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5 720pp
 http://39.134.66.66/PLTV/88888888/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
