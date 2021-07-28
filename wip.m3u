@@ -7,87 +7,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://223.82.250.72/live/hdcctv01/1.m3u8
-#EXTINF:-1 ,Discovery独家
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528386
-#EXTINF:-1 ,Discovery王牌节目展播
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=637483721
-#EXTINF:-1 ,BBC地平线系列展播
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=637444830
-#EXTINF:-1 ,探索纪录
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809560
-#EXTINF:-1 ,凤凰资讯HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8 
 #EXTINF:-1 ,NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,HISTORY HD
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 ,H2 HD
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 ,WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 ,DiscoveryHDWorld
+#EXTINF:-1 ,Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 ,AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 ,BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="",National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
-http://122.38.74.172:9981/stream/channelid/1463854277
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
-http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1kB5Mk6.png" tvg-country="INT" tvg-url="" group-title="XXX",Rainbow TV
-http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/EJZPlK9.jpg" tvg-country="KR" tvg-url="" group-title="XXX",Viki
-http://112.148.183.161:9981/stream/channelid/488704961
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EWkFM9u.jpg" tvg-country="US" tvg-url="" group-title="XXX",Vivid TV Europe
-http://188.35.9.26:2031/udp/031a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
-http://fxzb.bbwqg.cn/proxy/box.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 10
-http://fxzb.bbwqg.cn/proxy/box.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 2
-http://fxzb.bbwqg.cn/proxy/box.php?id=2
+
