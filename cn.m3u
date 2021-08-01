@@ -7,3 +7,19 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://223.82.250.72/live/hdcctv01/1.m3u8
+#EXTINF:-1 ,北京卫视高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287636
+#EXTINF:-1 ,东方卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651625930
+#EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",北京卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+#EXTINF:-1 tvg-id="FengHuangZhongWenHD.cn" tvg-name="凤凰中文HD" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",凤凰中文HD
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="",东方卫视
+http://ivi.bupt.edu.cn/hls/dftv.m3u8
+#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="上海东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方卫视HD
+http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
