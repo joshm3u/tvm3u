@@ -9,5 +9,5 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m
 http://223.82.250.72/live/hdcctv01/1.m3u8
 #EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="237" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="237" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://223.82.250.72/live/fhchinese/1.m3u8
