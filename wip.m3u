@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5 3rd" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(3rd)
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5 3rd" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(3rd)
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5 4th" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(4th)
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV5 4th" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(4th)
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5 5th" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(5th)
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV5 5th" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5(5th)
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 ,NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 ,WarnerTV HD
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 ,Discovery Asia
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 
